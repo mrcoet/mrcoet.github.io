@@ -46,6 +46,8 @@ theme: jekyll-theme-cayman
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+emoji:
+  src: "https://github.githubassets.com/images/icons/"
 
 plugins:
   - jemoji
