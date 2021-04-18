@@ -4,6 +4,6 @@ title: "Anaconda"
 categories: conda
 permalink: /:categories/:title
 ---
-## jekyll
 
-- [Jemojis](https://davemateer.com/2019/05/27/Jemoji){:target="_blank"}
+- [**Jemojis:**](https://davemateer.com/2019/05/27/Jemoji){:target="_blank"} emojis for **jkeyll**.
+- [**JSDELIVER:**](https://www.jsdelivr.com/){:target="_blank"} A free **CDN** for Open Source.
