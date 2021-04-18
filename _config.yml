@@ -35,12 +35,14 @@ github: [metadata]
 gems: ["jekyll-github-metadata"]
 # Build settings
 #theme: jekyll-theme-cayman
-theme: minimal-mistakes-jekyll
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-remote-theme
+
 
 
 defaults:
