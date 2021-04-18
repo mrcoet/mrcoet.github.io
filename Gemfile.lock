@@ -283,6 +283,7 @@ DEPENDENCIES
   jekyll-emoji
   jekyll-feed (~> 0.12)
   jekyll-theme-cayman (~> 0.1.1)
+  jemoji
   tzinfo (>= 1.2.9)
   tzinfo-data
   wdm (~> 0.1.1)
