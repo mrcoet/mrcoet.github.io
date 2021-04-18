@@ -1,11 +1,8 @@
 ---
-
+layout: default
 title: "BlockChain deep"
-date: 2021-04-14 10:09:00 -0400
 categories: blockchain
 permalink: /:categories/:title
-sidebar:
-  nav: "docs"
 ---
 
 LINK: [How Bitcoin Works Under the Hood](https://www.blogger.com/#)
