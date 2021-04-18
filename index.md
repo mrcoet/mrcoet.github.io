@@ -4,10 +4,13 @@
 
 layout: default
 ---
-# Posts
+# QuantXVII
+
+## Resources
+
+- [Resources](resources.md) :sunglasses
+
+## Posts
 
 - [BlockChain](_posts/2021-04-14-blockchain-bitcoin.md)
 - [Conda](_posts/2021-04-17-conda.md)
-{{":blush:" | emojify}}
-
-- :tada: sample emoji markdown

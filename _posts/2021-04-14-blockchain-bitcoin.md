@@ -54,11 +54,3 @@ Through the math behind the digital signature they're able to verify that the se
 
 Because the signature depends on the message it will be different for every transaction and therefore can't be reused by someone for a different transaction.  
 This dependence on the message also means that no one can modify the message as any changes to the message would invalidate the signature.
-
-## Lot of concernes here :cry: end
-
-and here now :cry: only :heart:
-
-Watch out! This paragraph of text has been emphasized with the {: .notice}
-
-Center aligned text. {: .text-center}
