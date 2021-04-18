@@ -47,3 +47,9 @@ theme: jekyll-theme-cayman
 #   - vendor/gems/
 #   - vendor/ruby/
 
+gems: ["jekyll-emoji"]
+emoji:
+  format: emojione-svg # default html
+  ascii: true # default false
+  shortname: true # default true
+  src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
