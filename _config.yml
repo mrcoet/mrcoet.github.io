@@ -35,6 +35,7 @@ github: [metadata]
 gems: ["jekyll-github-metadata"]
 # Build settings
 #theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
