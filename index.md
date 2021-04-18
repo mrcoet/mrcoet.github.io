@@ -8,7 +8,7 @@ layout: default
 
 ## Resources
 
-- [Resources](resources.md) :sunglasses
+- [Resources](resources.md) :sunglasses:
 
 ## Posts
 
