@@ -1,9 +1,11 @@
 ---
-layout: default
+
 title: "BlockChain deep"
 date: 2021-04-14 10:09:00 -0400
 categories: blockchain
 permalink: /:categories/:title
+sidebar:
+  nav: "docs"
 ---
 
 LINK: [How Bitcoin Works Under the Hood](https://www.blogger.com/#)
@@ -12,7 +14,8 @@ LINK: [How Bitcoin Works Under the Hood](https://www.blogger.com/#)
 
 ![ledgers](https://1.bp.blogspot.com/-aRwHJuD_qLE/YGoB4BSHVlI/AAAAAAAALQY/ntMCW9ty2PQiahVANZfFL8Sg9yHdQwXbACPcBGAYYCw/s16000/1.png "ledgers")
 
-At its core, Bitcoin is just a digital file that lists accounts and money like a ledger. A copy of this file is maintained on every computer in the Bitcoin network. (update: you don't have to maintain a ledger just to use Bitcoin to send and receive money, this is for people who want to help maintain the system)  
+ At its core, Bitcoin is just a digital file that lists accounts and money like a ledger. A copy of this file is maintained on every computer in the Bitcoin network. (update: you don't have to maintain a ledger just to use Bitcoin to send and receive money, this is for people who want to help maintain the system)  
+
 These numbers don’t represent anything in the physical world, they only have value because people are willing to trade real goods and services for a higher number next to their account, and believe that others will do the same. The numbers only have value because we believe they have value, just like any other fiat currency
 
 ![ledgers](https://1.bp.blogspot.com/-Ct6E5wufFwM/YGoCT0NQgVI/AAAAAAAALQk/p8-Zjxl6qTkopN9NL_9v94eUJZ274kl5gCPcBGAYYCw/s16000/3.png)  
@@ -54,3 +57,11 @@ Through the math behind the digital signature they're able to verify that the se
 
 Because the signature depends on the message it will be different for every transaction and therefore can't be reused by someone for a different transaction.  
 This dependence on the message also means that no one can modify the message as any changes to the message would invalidate the signature.
+
+## Lot of concernes here :cry: end
+
+and here now :cry: only :heart:
+
+Watch out! This paragraph of text has been emphasized with the {: .notice}
+
+Center aligned text. {: .text-center}
