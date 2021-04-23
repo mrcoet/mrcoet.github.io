@@ -33,3 +33,7 @@ permalink: "/tools"
 - [';--have i been pwned?](https://haveibeenpwned.com/){:target="_blank"}
 
 ---
+
+## Web Design
+
+- [favicon.io:](https://favicon.io/){:target="_blank"} The only favicon generator you need for your next project.
