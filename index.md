@@ -9,6 +9,7 @@ layout: default
 ## Resources
 
 - [Resources](resources.md) :sunglasses:
+- [Tools](tools.md) :wrench:
 
 ## Posts
 

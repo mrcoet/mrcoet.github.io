@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Anaconda"
-categories: conda
+title: "Resources"
+categories: tools
 permalink: /:categories/:title
 ---
 
