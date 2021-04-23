@@ -2,7 +2,7 @@
 layout: default
 title: "Tools"
 categories: tools
-permalink: /:categories/:title
+permalink: "/tools"
 ---
 
 ## Windows
