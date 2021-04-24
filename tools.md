@@ -36,4 +36,4 @@ permalink: "/tools"
 
 ## Web Design
 
-- [favicon.io:](https://favicon.io/){:target="_blank"} The only favicon generator you need for your next project.
+- [favicon.io](https://favicon.io/){:target="_blank"} The only favicon generator you need for your next project.
