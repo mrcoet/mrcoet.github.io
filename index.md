@@ -10,7 +10,7 @@ layout: default
 
 - [Resources](resources.md) :sunglasses:
 - [Tools](tools.md) :wrench:
-- [toknow](tools.md)
+- [toknow](toknow.md)
 
 ## Posts
 
