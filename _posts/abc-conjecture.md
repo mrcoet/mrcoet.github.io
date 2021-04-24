@@ -2,7 +2,7 @@
 layout: default
 title: "MATHEMATICIANS ARE SHOCKED THAT THIS PAPER GOT PUBLISHED"
 categories: Satoshi
-permalink: /:categories/:title
+permalink: /:categories/abc-conjecture
 ---
     AMONG NUMBER THEORISTS, THIS IS HIGH DRAMA.
 
