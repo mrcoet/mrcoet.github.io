@@ -15,4 +15,4 @@ layout: default
 
 - [BlockChain](_posts/2021-04-14-blockchain-bitcoin.md)
 - [Conda](_posts/2021-04-17-conda.md)
-- [ABC Conjecture news](_posts/abc-conjecture.md)
+- [ABC Conjecture news](_posts/2021-04-23-abc-conjecture.md)
