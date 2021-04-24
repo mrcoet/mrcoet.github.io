@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "MATHEMATICIANS ARE SHOCKED THAT THIS PAPER GOT PUBLISHED"
+title: "abc-conjecture"
 categories: satoshi
-permalink: /:categories/abc-conjecture
+permalink: /:categories/:title
 ---
+
     AMONG NUMBER THEORISTS, THIS IS HIGH DRAMA.
 
 ![Mochizuki](../assets/images/mochizuki.png)
