@@ -26,3 +26,7 @@ It states that if there are two different numbers that can be divisible entirely
 Mochizuki shared [four](../assets/pdf/Inter-universal%20Teichmuller%20Theory%20IV.pdf) [massive](../assets/pdf/Inter-universal%20Teichmuller%20Theory%20I.pdf) [preprints](../assets/pdf/Inter-universal%20Teichmuller%20Theory%20II.pdf) [online](../assets/pdf/Inter-universal%20Teichmuller%20Theory%20III.pdf) in 2012, claiming they were a proof of the abc conjecture. But no one has been able to verify his claims — the NYT reports that experts at the time compared the four papers to trying to decipher an alien language. So they remain skeptical that an academic journal managed to succeed where the entire math community failed.
 
 “If the best mathematicians spend time trying to work out what’s going on and fail,” an anonymous mathematician told the NYT, “how can one referee on his own have any chance?”
+
+## Source
+
+This article is a copy-past from [THE__BYTE.](https://futurism.com/the-byte/mathematicians-shocked-paper-published). For archiving purpose.
