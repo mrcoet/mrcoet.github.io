@@ -11,6 +11,7 @@ layout: default
 - [Resources](resources.md) :sunglasses:
 - [Tools](tools.md) :wrench:
 - [toknow](toknow.md)
+- [colors](colors.md)
 
 ## Posts
 
