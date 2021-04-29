@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 .main-content {
-  font-family: "Boogaloo", cursive;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.main-content pre > code {
+  font-family: "JetBrains Mono", monospace;
+  font-style: italic;
 }
