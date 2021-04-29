@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+.body {
+  color: #343a40;
+}
 .main-content {
   font-family: "JetBrains Mono", monospace;
 }
@@ -11,3 +14,5 @@
   font-family: "JetBrains Mono", monospace;
   font-style: italic;
 }
+$code-bg-color: #f8f9fa !default;
+$code-text-color: #6c757d !default;
